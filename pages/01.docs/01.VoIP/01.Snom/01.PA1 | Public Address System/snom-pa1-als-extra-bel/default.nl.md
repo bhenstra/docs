@@ -1,5 +1,7 @@
 ---
 title: 'Snom PA1 als extra bel'
+published: true
+date: '24-07-2020 22:51'
 ---
 
 De PA1 van Snom is een systeem waarmee VoIP techniek aan een (bestaand) analoog omroepsystemen gekoppeld kan worden. Dit is handig om ouderwetse analoge techniek toch te kunnen blijven gebruiken.
