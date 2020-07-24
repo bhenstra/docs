@@ -25,5 +25,12 @@ Volgens de FAQ kan een Snom PA1 gebruikt worden in combinatie met een luidspreke
 
     The snom PA1 is not designed for this purpose, so it is recommended that the Identity not be shared with other endpoints. The 'loudspeaker ringer' identity should be set into a group to represent the extension(s) that require the 'loudspeaker ringer'.
 
-Wat mij opviel is dat de eerste optie niet (meer) beschikbaar is in de laatste firmware. Op het moment van schrijven gaat het om firmwareversie 8.7.5.75.
+Wat mij opviel is dat de eerste optie niet (meer) beschikbaar is in de laatste firmware. Op het moment van schrijven gaat het om firmwareversie 8.7.5.75.  
+
+Dit betekent dat de bovenstaande oplossing niet meer werkt. Gelukkig blijkt de nieuwe oplossing niet ingewikkeld. Via het supportsysteem van Snom had ik binnen 10 minuten een reactie en werd uitgelegd dat ik onder "Identities" - "SIP Settings" de optie "Auto Answer" uit moest schakelen.
+
+Onderaan de documentatie van deze instelling staat de standaardwaarde. Deze waard is "uit" voor alle toestellen maar "aan" voor de PA1.
+
+* Helpdesk ticket: https://helpdesk.snom.com/support/tickets/38726
+* USER_AUTO_CONNECT: https://service.snom.com/display/wiki/user_auto_connect
 
