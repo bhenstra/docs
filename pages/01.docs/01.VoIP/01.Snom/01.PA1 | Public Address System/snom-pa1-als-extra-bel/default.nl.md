@@ -18,9 +18,11 @@ Volgens de FAQ kan een Snom PA1 gebruikt worden in combinatie met een luidspreke
 
     Set 'Use Headset Device:' to <RJ Connector>
     Set 'Ringer Device for Headset:' to <Use Headset>
+
     Under the 'non-paging' Identity:
 
     Under the SIP 'tab', turn off 'Auto-Answer'
+
     The snom PA1 is not designed for this purpose, so it is recommended that the Identity not be shared with other endpoints. The 'loudspeaker ringer' identity should be set into a group to represent the extension(s) that require the 'loudspeaker ringer'.
 
 Wat mij opviel is dat de eerste optie niet (meer) beschikbaar is in de laatste firmware. Op het moment van schrijven gaat het om firmwareversie 8.7.5.75.
