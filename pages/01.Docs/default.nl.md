@@ -1,8 +1,8 @@
 ---
 title: Docs
 taxonomy:
-    category: docs
-    tag: ''
+    category:
+        - docs
 visible: true
 ---
 
