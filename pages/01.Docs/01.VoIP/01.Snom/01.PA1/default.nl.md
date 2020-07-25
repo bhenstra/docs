@@ -1,5 +1,5 @@
 ---
-title: 'PA1 | Public Address System'
+title: PA1
 menu: 'PA1 | Public Address System'
 ---
 
