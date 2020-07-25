@@ -23,6 +23,7 @@ Volgens de FAQ kan een Snom PA1 gebruikt worden in combinatie met een luidspreke
 [FAQ/Can my snom PA1 be used as a loudspeaker ringer?](http://wiki.snom.com/FAQ/Can_my_snom_PA1_be_used_as_a_loudspeaker_ringer%3F)
 
     Answer
+    
     In some VoIP environments, such as snom One, we have been able to create one identity in the snom PA1 to work as a 'Paging' extension and configure a second identity to play a 'ringer' over the loudspeaker.
 
     Set the snom PA1 to the following configuration using the Web User Interface:
