@@ -9,7 +9,7 @@ taxonomy:
 visible: true
 ---
 
-[MINITOC]
+[TOC]
 
 ## PA1 - Omroepsysteem
 
