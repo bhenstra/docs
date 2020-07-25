@@ -11,13 +11,12 @@ visible: true
 
 ### Omroepsysteem
 
-![PA1](PA1.png?resize=350&classes=caption,figure-right,caption "Snom PA1") 
 De PA1 van Snom is een systeem waarmee VoIP techniek aan een (bestaand) analoog omroepsystemen gekoppeld kan worden. Dit is handig om ouderwetse analoge techniek toch te kunnen blijven gebruiken.
 
 ### Extra bel
 
 In bepaalde gevallen is het nodig om een extra bel aan te sluiten. De PA1 is hier eigenlijk niet voor gemaakt maar leent zich er toch goed voor. Dit werkt prima door middel van het aansluiten van een luidspreker op de luidsprekeraansluitingen (zwart/rood).
-
+![PA1](PA1.png?resize=350&classes=caption,figure-right,caption "Snom PA1") 
 Volgens de FAQ kan een Snom PA1 gebruikt worden in combinatie met een luidspreker:  
 [FAQ/Can my snom PA1 be used as a loudspeaker ringer?](http://wiki.snom.com/FAQ/Can_my_snom_PA1_be_used_as_a_loudspeaker_ringer%3F)
 
