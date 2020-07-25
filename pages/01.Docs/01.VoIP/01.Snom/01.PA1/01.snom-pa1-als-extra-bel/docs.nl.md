@@ -3,6 +3,9 @@ title: 'Snom PA1 als extra bel'
 media_order: PA1.png
 published: true
 date: '24-07-2020 22:51'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
