@@ -1,5 +1,0 @@
----
-title: VoIP
-menu: VoIP
----
-
