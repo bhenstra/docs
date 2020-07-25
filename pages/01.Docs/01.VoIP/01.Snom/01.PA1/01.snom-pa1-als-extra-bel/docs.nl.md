@@ -49,9 +49,9 @@ Onderaan de documentatie van deze instelling staat de standaardwaarde... Eigenli
 ### Referenties
 
 * Snom PA1 op wiki.snom.com:  
-[http://wiki.snom.com/Snom_PA1](http://wiki.snom.com/Snom_PA1)
+[wiki.snom.com/Snom_PA1](http://wiki.snom.com/Snom_PA1)
 * Helpdesk ticket:  
 [38726](https://helpdesk.snom.com/support/tickets/38726)
 * USER_AUTO_CONNECT:  
-[https://service.snom.com/display/wiki/user_auto_connect](https://service.snom.com/display/wiki/user_auto_connect)
+[service.snom.com/display/wiki/user_auto_connect](https://service.snom.com/display/wiki/user_auto_connect)
 
