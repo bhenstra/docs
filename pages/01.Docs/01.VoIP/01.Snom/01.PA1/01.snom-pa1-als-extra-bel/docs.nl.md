@@ -42,7 +42,10 @@ Via het supportsysteem van Snom had ik binnen 10 minuten een reactie. In de oplo
 
 Onderaan de documentatie van deze instelling staat de standaardwaarde... Eigenlijk "standaardwaarden". De standaard waarde is "uit" voor alle toestellen - maar voor de PA1 staat dit standaard aan. Een uitzondering op de regel dus!
 
-* Snom PA1 op wiki.snom.com: [http://wiki.snom.com/Snom_PA1](http://wiki.snom.com/Snom_PA1)
-* Helpdesk ticket: [38726](https://helpdesk.snom.com/support/tickets/38726)
-* USER_AUTO_CONNECT: [https://service.snom.com/display/wiki/user_auto_connect](https://service.snom.com/display/wiki/user_auto_connect)
+* Snom PA1 op wiki.snom.com:  
+[http://wiki.snom.com/Snom_PA1](http://wiki.snom.com/Snom_PA1)
+* Helpdesk ticket:  
+[38726](https://helpdesk.snom.com/support/tickets/38726)
+* USER_AUTO_CONNECT:  
+[https://service.snom.com/display/wiki/user_auto_connect](https://service.snom.com/display/wiki/user_auto_connect)
 
