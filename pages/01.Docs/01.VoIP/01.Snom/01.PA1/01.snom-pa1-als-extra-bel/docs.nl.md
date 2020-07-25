@@ -38,7 +38,7 @@ Volgens de FAQ kan een Snom PA1 gebruikt worden in combinatie met een luidspreke
 
     The snom PA1 is not designed for this purpose, so it is recommended that the Identity not be shared with other endpoints. The 'loudspeaker ringer' identity should be set into a group to represent the extension(s) that require the 'loudspeaker ringer'.
 
-Wat mij opviel is dat de eerste optie niet (meer) beschikbaar is in de laatste firmware. Op het moment van schrijven gaat het om firmwareversie 8.7.5.75.  
+Wat mij opviel is dat de eerste optie niet (meer) beschikbaar is in de laatste firmware. Op het moment van schrijven gaat het om [firmwareversie 8.7.5.75](https://service.snom.com/display/wiki/FW+v8.7.5.75+MRU+PA1).  
 
 Dit betekent dat de bovenstaande oplossing niet meer werkt. Maar gelukkig blijkt er een eenvoudige oplossing voorhanden te zijn. 
 
